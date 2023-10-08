@@ -1,0 +1,14 @@
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\bin\Debug\net7.0\p2_2_Maranhas_Carmen.exe
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\bin\Debug\net7.0\p2_2_Maranhas_Carmen.deps.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\bin\Debug\net7.0\p2_2_Maranhas_Carmen.runtimeconfig.json
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\bin\Debug\net7.0\p2_2_Maranhas_Carmen.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\bin\Debug\net7.0\p2_2_Maranhas_Carmen.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.AssemblyInfoInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.AssemblyInfo.cs
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.csproj.CoreCompileInputs.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\refint\p2_2_Maranhas_Carmen.dll
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.pdb
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\p2_2_Maranhas_Carmen.genruntimeconfig.cache
+C:\Users\CarmenM\Documents\LM\web\DI2\p2_2_Maranhas_Carmen\obj\Debug\net7.0\ref\p2_2_Maranhas_Carmen.dll
