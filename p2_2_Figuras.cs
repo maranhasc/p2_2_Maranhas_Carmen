@@ -17,6 +17,8 @@ public class P2_2_Figuras
     figuras.Add(r1);
     Circulo c1 = new Circulo(4);
     figuras.Add(c1);
+    Triangulo t1 = new Triangulo(4);
+    figuras.Add(t1);
 
 
 
