@@ -11,6 +11,10 @@ public Circulo(double radio) => this._radio = radio;
     }
     public double GetRadio() => this._radio;
     public void SetRadio(int radio) => this._radio = radio;
+    public override string ToString()
+        {
+            return $"FIGURA CIRCULO Radio: {_radio}";
+        }
 
 
 }

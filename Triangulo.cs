@@ -20,6 +20,10 @@ internal class Triangulo : Figura{
 
     public double GetLado() => this._lado;
     public void SetLado(int lado) => this._lado = lado;
+    public override string ToString()
+        {
+            return $"FIGURA TRIANGULO Lado: {_lado}";
+        }
 
 
 }
