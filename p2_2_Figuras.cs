@@ -26,10 +26,14 @@ public class P2_2_Figuras
 
 
     foreach (Figura figura in figuras){
-    Console.WriteLine(figura.GetArea());
     Console.WriteLine(figura.ToString());
+    Console.WriteLine($"El area es: {figura.GetArea()}");
+    Console.WriteLine();
+
 
     }
+
+    
 
   }
 
