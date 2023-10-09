@@ -40,9 +40,12 @@ public class P2_2_Figuras
 
     }
     Console.WriteLine($"La suma total del area es: {suma}");
+    Console.WriteLine();
+
 
     
-    
+    Console.WriteLine("Cambiamos el color todas las figuras");
+
     foreach (Figura figura in lista_figuras){
 
       figura.SetColor(245,40,145,200);
