@@ -1,5 +1,6 @@
 ﻿//necesario para usar la estructura Color
 // https://learn.microsoft.com/es-es/dotnet/api/system.drawing.color?view=net-7.0
+using System.ComponentModel;
 using System.Drawing;
 using p2_2_Maranhas_Carmen;
 //método para obtener un color a partir de los valores RGBA 
@@ -31,8 +32,6 @@ public class P2_2_Figuras
     lista_figuras.Add(c2);
     
 
-
-
     foreach (Figura figura in lista_figuras){
     Console.WriteLine(figura.ToString());
     Console.WriteLine($"El area es: {figura.GetArea()}");
@@ -42,7 +41,19 @@ public class P2_2_Figuras
     }
     Console.WriteLine($"La suma total del area es: {suma}");
 
+    
+    
+    foreach (Figura figura in lista_figuras){
+
+      figura.SetColor(245,40,145,200);
+      Console.WriteLine(figura.ToString());
+
+
+    }
+
 
   }
+ 
+  
 
 }

@@ -9,6 +9,11 @@ internal abstract class Figura
 
   public abstract double GetArea();
 
+  public void SetColor(byte alpha, byte red, byte green, byte blue){
+      this._color = Color.FromArgb(alpha, red, green, blue);
+    }
+
 }
+ 
 
 
