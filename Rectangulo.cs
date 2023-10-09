@@ -6,9 +6,10 @@ internal class Rectangulo : Figura{
     protected double _lado1;
     protected double _lado2;
 
-    public Rectangulo( double lado1, double lado2){
+    public Rectangulo( double lado1, double lado2, Color color){
         _lado1 = lado1;
         _lado2 = lado2;
+        this._color = color;
         //_color = color;
     }
 
@@ -22,7 +23,7 @@ internal class Rectangulo : Figura{
     public void SetLado2(int lado2) => this._lado2 = lado2;
     public override string ToString()
         {
-            return $"FIGURA RECTANGULO Alto: {_lado1}, Ancho: {_lado2}";
+            return $"FIGURA RECTANGULO Alto: {_lado1}, Ancho: {_lado2}, Color: {_color}";
         }
 
 }

@@ -15,19 +15,19 @@ public class P2_2_Figuras
 
     //llamadas a las clases
     List<Figura> lista_figuras = new List<Figura>();
-    Rectangulo r1 = new Rectangulo(4,5);
+    Rectangulo r1 = new Rectangulo(4,5, Color.FromArgb(255,25,0,25));
     lista_figuras.Add(r1);
-    Circulo c1 = new Circulo(4);
+    Circulo c1 = new Circulo(4, Color.FromArgb(255,40,0,0));
     lista_figuras.Add(c1);
-    Triangulo t1 = new Triangulo(4);
+    Triangulo t1 = new Triangulo(4,Color.FromArgb(255,25,250,25));
     lista_figuras.Add(t1);
-    t1 = new Triangulo(5);
+    t1 = new Triangulo(5,Color.FromArgb(25,0,0,250));
     lista_figuras.Add(t1);
-    Triangulo t2 = new Triangulo(5);
+    Triangulo t2 = new Triangulo(5,Color.FromArgb(255,25,20,25));
     lista_figuras.Add(t2);
-    Rectangulo r2 = new Rectangulo(5,6);
+    Rectangulo r2 = new Rectangulo(5,6, Color.FromArgb(255,250,0,25));
     lista_figuras.Add(r2);
-    Circulo c2 = new Circulo(5);
+    Circulo c2 = new Circulo(5, Color.FromArgb(255,50,20,34));
     lista_figuras.Add(c2);
     
 

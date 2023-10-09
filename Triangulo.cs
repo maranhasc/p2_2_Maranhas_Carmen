@@ -7,8 +7,10 @@ internal class Triangulo : Figura{
     protected double _lado;
     
 
-    public Triangulo( double lado){
+    public Triangulo( double lado, Color color){
         _lado = lado;
+        this._color = color;
+
         //_color = color;
     }
 
@@ -22,7 +24,7 @@ internal class Triangulo : Figura{
     public void SetLado(int lado) => this._lado = lado;
     public override string ToString()
         {
-            return $"FIGURA TRIANGULO Lado: {_lado}";
+            return $"FIGURA TRIANGULO Lado: {_lado}, Color: {_color}";
         }
 
 
