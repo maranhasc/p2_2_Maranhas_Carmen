@@ -13,17 +13,21 @@ public class P2_2_Figuras
   {
     //llamadas a las clases
     List<Figura> figuras = new List<Figura>();
-    Rectangulo r1 = new Rectangulo(4,4);
+    Rectangulo r1 = new Rectangulo(4,5);
     figuras.Add(r1);
     Circulo c1 = new Circulo(4);
     figuras.Add(c1);
     Triangulo t1 = new Triangulo(4);
     figuras.Add(t1);
+    t1 = new Triangulo(5);
+    figuras.Add(t1);
+    
 
 
 
     foreach (Figura figura in figuras){
     Console.WriteLine(figura.GetArea());
+    Console.WriteLine(figura.ToString());
 
     }
 
