@@ -11,6 +11,8 @@ public class P2_2_Figuras
 {
   static void Main(string[] args)
   {
+    double suma = 0;
+
     //llamadas a las clases
     List<Figura> figuras = new List<Figura>();
     Rectangulo r1 = new Rectangulo(4,5);
@@ -29,11 +31,11 @@ public class P2_2_Figuras
     Console.WriteLine(figura.ToString());
     Console.WriteLine($"El area es: {figura.GetArea()}");
     Console.WriteLine();
-
+    suma += figura.GetArea();
 
     }
+    Console.WriteLine($"La suma total del area es: {suma}");
 
-    
 
   }
 
